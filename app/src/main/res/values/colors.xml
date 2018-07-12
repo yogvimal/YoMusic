@@ -6,7 +6,10 @@
 
     <color name="primary_text">#212121</color>
     <color name="secondary_text">#727272</color>
-    <color name="icons">#ffffff</color>
+    <color name="colorWhite">#ffffff</color>
     <color name="divider">#b6b6b6</color>
     <color name="primary_light">#FFCDD2</color>
+
+    <color name="light_gray1">#dddddd</color>
+    <color name="light_gray2">#D0D0D0</color>
 </resources>
